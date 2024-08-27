@@ -1,6 +1,9 @@
 # UX Portfolio
 
-About me...
+Valarie Mello
+
+This is me testing how on earth to get this whole thing set up...
+
 
 ## UX Team Project
 
@@ -8,4 +11,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+x02 UX Journal setup (j01/)
