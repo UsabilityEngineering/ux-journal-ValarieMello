@@ -19,15 +19,18 @@ there is no denying that the S24 Ultra has an amazing camera system. The camera 
 
 First, there is an odd way to go about focusing the camera. For starts, you cannot simply drag the focus you instead have to tap to adjust the focus. This is good for the initial focus, but then you are stuck tapping around our screen to try and get the right spot rather than dragging it to the position you want, missing out on seeing the real-time changes of the adjustment. 
 
-![focus](focus.jpg)
+![focus](camerawithfocus.jpg)
 
 This is combined with the second issue of the camera having issues with taking photos up close of objects. I noticed this  when trying to capture a picture of my microscope for an assignment where I had to draw the image as seen in the magnifying device. My phone simply could not get a clear shot of the whole image whereas my peers with older phones had no issue with this. When I eventually captured a crooked photo I had taken way longer than my groupmates making the experience **Unsatisfying, Inefficient, and Ineffective** at accomplishing the task of taking a simple photo. This is also seen when taking up-close photos of writing or my art where it focuses only on one part of the page unfocusing the rest of the image even when adjusting the settings.
 
-*show a picture of microscope photos and weird blurred images
+![micro1](micro1.jpg)
+![micro2](micro2.jpg)
+![micro3](micro3.jpg)
+![focusissue](focusissue.jpg)
 
 As a bonus there is also the strange time when some images randomly become enhanced by AI so as a bonus please have this glam shot of my Cat Mr Dritz. This doesn't have a major impact one way or another on my experience as a user it is just weird and catches me off guard. 
 
-* Dritz glam shot
+![dirtz](dritzglam.jpg)
 
 **Google Suit vs Samsung**
 
@@ -36,10 +39,13 @@ The second thing I want to discuss is the minor issues I face with the conflict 
 Another thing relating to this conflict is the built-in Bixby button which is also... the power button. To turn on the phone you press the button located on the side below the volume bar. However, when you want to sleep/turn off your phone you press- oh wait no you don't because that tries to have you use Bixby. 
 
 This can be adjusted by...
-* going into Settings (which you have to either pull up another menu or put it on your home screen to access)
-* scrolling till you find Advanced Features
-* Selecting Side Button
-* And finally tap "Power off menu"
+# * going into Settings (which you have to either pull up another menu or put it on your home screen to access)
+![settings](settings.jpg)
+# * scrolling till you find Advanced Features
+![advanced features](advancedfeatures.jpg)
+# * Selecting Side Button
+![side button](sidebutton.jpg)
+# * And finally tap "Power off menu"
 
 Objectively 4 steps isn't a whole lot, but having to dig through 4 pages of your settings just so half-baked Google Assistant doesn't harass you every time you sleep your phone isn't enjoyable. A similar issue is with the AI assistant built right into the keyboard. I find myself constantly tapping the button when trying to highlight a part of a message or pull up an emoji causing me to then have to backtrack through a screen or two to dismiss the thing making it so you can **recover from error** easily but you not feel secure since it still looms. It's those couple of seconds here and there that bother me and make my experience frustrating. 
 
