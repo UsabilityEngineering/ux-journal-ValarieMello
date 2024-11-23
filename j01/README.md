@@ -19,7 +19,7 @@ there is no denying that the S24 Ultra has an amazing camera system. The camera 
 
 First, there is an odd way to go about focusing the camera. For starts, you cannot simply drag the focus you instead have to tap to adjust the focus. This is good for the initial focus, but then you are stuck tapping around our screen to try and get the right spot rather than dragging it to the position you want, missing out on seeing the real-time changes of the adjustment. 
 
-*show a picture of the focus 
+![alt text]()
 
 This is combined with the second issue of the camera having issues with taking photos up close of objects. I noticed this  when trying to capture a picture of my microscope for an assignment where I had to draw the image as seen in the magnifying device. My phone simply could not get a clear shot of the whole image whereas my peers with older phones had no issue with this. When I eventually captured a crooked photo I had taken way longer than my groupmates making the experience **Unsatisfying, Inefficient, and Ineffective** at accomplishing the task of taking a simple photo. This is also seen when taking up-close photos of writing or my art where it focuses only on one part of the page unfocusing the rest of the image even when adjusting the settings.
 
