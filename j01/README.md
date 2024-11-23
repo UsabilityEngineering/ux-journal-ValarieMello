@@ -25,9 +25,7 @@ This is combined with the second issue of the camera having issues with taking p
 
 ![micro1](micro1.png)
 ![micro2](micro2.png)
-![micro3](micro3.png)
 ![micro4](micro4.png)
-![micro5](micro5.png)
 ![focusissue](focusissue.png)
 
 As a bonus there is also the strange time when some images randomly become enhanced by AI so as a bonus please have this glam shot of my Cat Mr Dritz. This doesn't have a major impact one way or another on my experience as a user it is just weird and catches me off guard. 
