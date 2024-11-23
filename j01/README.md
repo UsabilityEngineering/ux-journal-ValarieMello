@@ -23,10 +23,12 @@ First, there is an odd way to go about focusing the camera. For starts, you cann
 
 This is combined with the second issue of the camera having issues with taking photos up close of objects. I noticed this  when trying to capture a picture of my microscope for an assignment where I had to draw the image as seen in the magnifying device. My phone simply could not get a clear shot of the whole image whereas my peers with older phones had no issue with this. When I eventually captured a crooked photo I had taken way longer than my groupmates making the experience **Unsatisfying, Inefficient, and Ineffective** at accomplishing the task of taking a simple photo. This is also seen when taking up-close photos of writing or my art where it focuses only on one part of the page unfocusing the rest of the image even when adjusting the settings.
 
-![micro1](micro1.jpg)
-![micro2](micro2.jpg)
-![micro3](micro3.jpg)
-![focusissue](focusissue.jpg)
+![micro1](micro1.png)
+![micro2](micro2.png)
+![micro3](micro3.png)
+![micro4](micro4.png)
+![micro5](micro5.png)
+![focusissue](focusissue.png)
 
 As a bonus there is also the strange time when some images randomly become enhanced by AI so as a bonus please have this glam shot of my Cat Mr Dritz. This doesn't have a major impact one way or another on my experience as a user it is just weird and catches me off guard. 
 
