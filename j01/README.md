@@ -1,4 +1,4 @@
-# [Journal Entry 1: S24 Ultra](ux-journal-ValarieMello/README.md)
+# [Journal Entry 1: S24 Ultra](README.md)
 
 # **Samsung Galaxy S24 Ultra**
 **Valarie Mello**
