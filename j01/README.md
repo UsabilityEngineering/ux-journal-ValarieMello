@@ -13,7 +13,7 @@ A Phone is something that we use every day, some days more than others, but rega
 
 When I purchased the phone the key things for me were: I wanted to be able to take beautiful photos, and have easy access and use of Google services since most of what I do online is tied to the Google Suite. This naturally put me in a place where I needed to use a Samsung or some sort of Android phone. Now that we have an idea of the goals I set out to accomplish with a given device let us get into some of the interactions I have with this phone based on the goals.
 
-**Taking Beautiful Photos:**
+# **Taking Beautiful Photos:**
 
 there is no denying that the S24 Ultra has an amazing camera system. The camera is a relatively easy experience typical to any other you might use even on an iPhone. There's a large white circle that acts as the button so with a single tap your photo is captured. This usage lines up with the **mental model** that many users would have for their own experiences and expectations. However, there are a few usability issues that I encountered while using the camera that I have not adjusted to using even after months with the device. 
 
@@ -32,9 +32,9 @@ As a bonus there is also the strange time when some images randomly become enhan
 
 ![dirtz](dritzglam.jpg)
 
-**Google Suit vs Samsung**
+# **Google Suite vs Samsung**
 
-The second thing I want to discuss is the minor issues I face with the conflict between Google and Samsung within the device. From the moment you take your Samsung phone out of the box, it is equipped with all of Samsung's features but also the entire Google Suit linked to your Google account. This would normally be very handy but in recent years has seemed to only cause conflict within the device. For instance when saving passwords before the device would simply access your Google Keyring and paste the password, now however you have to use Samsung Pass... but that doesn't work... I've signed in and hit save, and a week later... it's not there? I suppose it is more secure since I have to remember everything myself.
+The second thing I want to discuss is the minor issues I face with the conflict between Google and Samsung within the device. From the moment you take your Samsung phone out of the box, it is equipped with all of Samsung's features but also the entire Google Suite linked to your Google account. This would normally be very handy but in recent years has seemed to only cause conflict within the device. For instance when saving passwords before the device would simply access your Google Keyring and paste the password, now however you have to use Samsung Pass... but that doesn't work... I've signed in and hit save, and a week later... it's not there? I suppose it is more secure since I have to remember everything myself.
 
 Another thing relating to this conflict is the built-in Bixby button which is also... the power button. To turn on the phone you press the button located on the side below the volume bar. However, when you want to sleep/turn off your phone you press- oh wait no you don't because that tries to have you use Bixby. 
 
