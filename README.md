@@ -12,9 +12,9 @@ I am a CINS Major who is set to graduate in 2026. Looking forward to working wit
 
 ## UX Team Project
 
-Coming soon.
+Stitch Niche!
 
 ## UX Journal
-* [Journal Entry 1: S24 Ultra](j01/)
+* [Journal Entry 1: S24 Ultra](j01/README.md)
 x02 UX Journal Setup: Day 1 of Class
 
