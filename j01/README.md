@@ -9,7 +9,7 @@ This past summer I was faced with the ever inconvenient challenge of having to g
 
 A Phone is something that we use every day, some days more than others, but regardless it is something that you put a lot of miles on. It is for this reason that it makes an excellent object to study for something like examining its usability. Within this blog post, I want to discuss some of the challenges I face as a user of my new device while providing a little UX knowledge in there to make this a more well-rounded and educational read rather than just, "Val rants about the features on her expensive phone".
 
-*add image of SS24 Ultra for visual 
+![s24](s24.png)
 
 When I purchased the phone the key things for me were: I wanted to be able to take beautiful photos, and have easy access and use of Google services since most of what I do online is tied to the Google Suite. This naturally put me in a place where I needed to use a Samsung or some sort of Android phone. Now that we have an idea of the goals I set out to accomplish with a given device let us get into some of the interactions I have with this phone based on the goals.
 
