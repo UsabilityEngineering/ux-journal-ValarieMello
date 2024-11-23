@@ -39,13 +39,13 @@ The second thing I want to discuss is the minor issues I face with the conflict 
 Another thing relating to this conflict is the built-in Bixby button which is also... the power button. To turn on the phone you press the button located on the side below the volume bar. However, when you want to sleep/turn off your phone you press- oh wait no you don't because that tries to have you use Bixby. 
 
 This can be adjusted by...
-# * going into Settings (which you have to either pull up another menu or put it on your home screen to access)
+# 1 Going into Settings (which you have to either pull up another menu or put it on your home screen to access)
 ![settings](settings.jpg)
-# * scrolling till you find Advanced Features
+# 2 Scrolling till you find Advanced Features
 ![advanced features](advancedfeatures.jpg)
-# * Selecting Side Button
+# 3 Selecting Side Button
 ![side button](sidebutton.jpg)
-# * And finally tap "Power off menu"
+# 4 And finally tap "Power off menu"
 
 Objectively 4 steps isn't a whole lot, but having to dig through 4 pages of your settings just so half-baked Google Assistant doesn't harass you every time you sleep your phone isn't enjoyable. A similar issue is with the AI assistant built right into the keyboard. I find myself constantly tapping the button when trying to highlight a part of a message or pull up an emoji causing me to then have to backtrack through a screen or two to dismiss the thing making it so you can **recover from error** easily but you not feel secure since it still looms. It's those couple of seconds here and there that bother me and make my experience frustrating. 
 
