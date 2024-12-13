@@ -4,7 +4,8 @@
 **Valarie Mello**
 
 **November 22nd 2024**
-**Updated December 13th 2024**
+
+**Updated/Revised December 13th 2024**
 
 This past summer I was faced with the ever-inconvenient challenge of having to get a new phone. Right in the middle of my Summer Internship and before leaving for a short trip my phone of 2 years faced its tragic demise after becoming lodged within the mechanics of my aunt's reclining couch... leaving the once sleek and pristine screen beyond shattered and internal hardware exposed. Thankfully my manager and mentor were understanding and upon my return, I decided to replace my phone with the newest model, the Samsung Galaxy S24 Ultra. My previous phone was the S22 Ultra and while it was an excellent phone I had always felt a hole in my heart for the Note 9 which was and still is my favorite phone to this date.
 
